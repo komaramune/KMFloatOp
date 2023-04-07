@@ -1,2 +1,2 @@
-# KMFormula
-Minecraft JEのコマンドで数式から計算をするためのライブラリーです
+# KMFloatOp
+Minecraft JEのコマンドで浮動小数点数の演算を行うためのライブラリです
