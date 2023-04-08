@@ -1,5 +1,6 @@
 # x + y
 
+# |x + y|
 data merge storage km_float_op:_ {matrix:[1f,0f,0f,0f,0f,1f,0f,0f,0f,0f,1f,0f,0f,0f,0f,1f]}
 
 data modify storage km_float_op:_ matrix[0] set from storage km_float_op: input.x
